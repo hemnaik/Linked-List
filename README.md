@@ -9,7 +9,7 @@
 - consist of data part, next address part and previous address part. 
 - previous node address can be fetched and one can move to previous nodes. 
 # 3) Circular Linked List 
--> There are two types 
+- There are two types 
 1) Singly Circular Linked List
    - Last node of the linked list contains the address of first node.
    - only data part and next address part are members of struct node.
