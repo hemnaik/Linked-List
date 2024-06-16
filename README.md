@@ -3,11 +3,11 @@
 - Real life implementations can be seen in websites where buttons like next and previous are used.
 # Types of Linked List 
 # 1) Singly Linked List 
--> consist of only data part and next address part 
--> No address of previous nodes can be fetched. 
+- consist of only data part and next address part 
+- No address of previous nodes can be fetched. 
 # 2)Doubly Linked List 
--> consist of data part, next address part and previous address part. 
--> previous node address can be fetched and one can move to previous nodes. 
+- consist of data part, next address part and previous address part. 
+- previous node address can be fetched and one can move to previous nodes. 
 # 3) Circular Linked List 
 -> There are two types 
 1) Singly Circular Linked List
