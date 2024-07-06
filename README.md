@@ -15,11 +15,13 @@
    - only data part and next address part are members of struct node.
 ### 2) Doubly Circular Linked List
    - Last node of Linked List contains the address of first node.
-    - Data part, next address part and previous address part all three resides in struct node.
+   - Data part, next address part and previous address part all three resides in struct node.
+     
 # Features of Linked List
 1) Dynamic memory allocation
 2) Less wastage of memory in comparison to Array.
 3) More flexible and effective for data storing.
+   
 # Applications of Linked List 
 1) Address maintainence and memory allocation
 2) Used to implement other data structures like hash chaining, stack and queue.
